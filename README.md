@@ -17,7 +17,7 @@ Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone <repository_url>
+   https://github.com/MuhammedBurak3/reac
    ```
 
 2. Proje dizinine gidin:
